@@ -1,2 +1,2 @@
-welcome
+welcome, hi
 Demo class on Git Github
